@@ -46,21 +46,21 @@ function SingleSectionThreeImages() {
         
 
         <img
-          src="src/images/hero_style1__ejjuw3sw3t0m_medium.jpg"
+          src="images/hero_style1__ejjuw3sw3t0m_medium.jpg"
           alt="img3"
           style={fullStyle}
           className="img3"
         />
 
         <img
-          src="src/images/hero_style2__gbh1d5shzmie_medium.jpg"
+          src="images/hero_style2__gbh1d5shzmie_medium.jpg"
           alt="img2"
           style={fullStyle}
           className="img2"
         />
 
         <img
-          src="src/images/hero_style3__ebrovo7velkm_medium.jpg"
+          src="images/hero_style3__ebrovo7velkm_medium.jpg"
           alt="img1"
           style={fullStyle}
           className="img1"

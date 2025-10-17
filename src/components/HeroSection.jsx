@@ -6,7 +6,7 @@ function HeroSection() {
             className="h-screen relative flex items-start justify-center pt-24 overflow-hidden"
         >
             <video
-                src="/videos/xlarge (3).mp4"
+                src="videos/xlarge (3).mp4"
                 autoPlay
                 loop
                 muted

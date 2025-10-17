@@ -6,19 +6,19 @@ export default function IPhoneCarousel() {
 
   const slides = [
     {
-      image: "/src/images/display__f5509jfp9nyq_xlarge.jpg",
+      image: "images/display__f5509jfp9nyq_xlarge_2x.jpg",
       title: "iPhone 16 Pro Max has our largest iPhone display ever"
     },
     {
-      image: "/src/images/thin__eqeewfn1mgsy_medium_2x.jpg",
+      image: "images/thin__eqeewfn1mgsy_medium_2x.jpg",
       title: "The thinnest borders on any Apple product"
     },
     {
-      image: "/src/images/recycle__bjo9ezsrw6vm_xlarge_2x.jpg",
+      image: "images/recycle__bjo9ezsrw6vm_xlarge_2x.jpg",
       title: "Premium Grade 5 titanium is exceptionally durable"
     },
     {
-      image: "/src/images/color__eaawe4bmivki_xlarge.jpg",
+      image: "images/color__eaawe4bmivki_xlarge.jpg",
       title: "Premium Grade 5 titanium is exceptionally durable"
     }
   ];

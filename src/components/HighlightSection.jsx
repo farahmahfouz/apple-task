@@ -46,11 +46,11 @@ function HighlightSection() {
 
 
   const videos = [
-    '/videos/iPhone 16 Pro and iPhone 16 Pro Max - Apple (AM) (5).mp4',
-    '/videos/xlarge (2).mp4',
-    '/videos/xlarge (1).mp4',
-    '/videos/xlarge (3).mp4',
-    '/videos/xlarge (4).mp4',
+    'videos/iPhone 16 Pro and iPhone 16 Pro Max - Apple (AM) (5).mp4',
+    'videos/xlarge (2).mp4',
+    'videos/xlarge (1).mp4',
+    'videos/xlarge (3).mp4',
+    'videos/xlarge (4).mp4',
   ]
 
   const captions = [

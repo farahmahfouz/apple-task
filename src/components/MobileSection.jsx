@@ -64,12 +64,12 @@ export default function MobileSection() {
             >
                 <div className="phone-frame relative ">
                     <img
-                        src="/src/images/hero_camera_hw__l3esjbq1awy2_xlarge.png"
+                        src="images/hero_camera_hw__l3esjbq1awy2_xlarge.png"
                         alt="Phone Frame"
                         className="frame "
                     />
                     <img
-                        src="/src/images/hero_camera_screen_zoom__bltohecbqbv6_xlarge.jpg"
+                        src="images/hero_camera_screen_zoom__bltohecbqbv6_xlarge.jpg"
                         alt="Screen"
                         className="screen"
                     />
